@@ -5,3 +5,8 @@ API
    :toctree: generated
 
    lumache
+
+.. toctree::
+
+   ping
+   pong
